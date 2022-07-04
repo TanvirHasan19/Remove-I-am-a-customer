@@ -1,0 +1,4 @@
+/*hide radio buttons during registration*/
+p.form-row.form-group.user-role.vendor-customer-registration {
+    display: none!important;
+}
